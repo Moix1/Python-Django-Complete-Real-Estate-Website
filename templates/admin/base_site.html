@@ -1,0 +1,12 @@
+{% extends 'admin/base.html' %}
+{% load static %}
+
+{% block branding %}
+    <h1>
+        <img height="50" width="80" class="brand_img" src="{% static 'img/logo.png' %}" alt="Baloch Real Estate"> Baloch Real Estate
+    </h1>
+{% endblock %}
+
+{% block extrastyle %}
+    <link rel="stylesheet" href="{% static 'css/admin.css' %}">
+{% endblock %}
