@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pylint_plugin_utils/__init__.py
+pylint_plugin_utils.egg-info/PKG-INFO
+pylint_plugin_utils.egg-info/SOURCES.txt
+pylint_plugin_utils.egg-info/dependency_links.txt
+pylint_plugin_utils.egg-info/requires.txt
+pylint_plugin_utils.egg-info/top_level.txt
