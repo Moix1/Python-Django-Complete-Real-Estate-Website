@@ -27,7 +27,7 @@ price_choices = {
 state_choices = {
     'SI': 'Sindh',
     'BA': 'Balochistan',
-    'KP': 'Khyber Pakhtunkha',
+    'KPK': 'Khyber Pakhtunkha',
     'PJ': 'Punjab',
     'GB': 'Gilgit Baltistan'
 }
